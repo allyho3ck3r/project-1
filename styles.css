@@ -511,6 +511,15 @@ QUALITY WORK ↓
     margin-top: 32px;
 }
 
+.quality__img--wrapper {
+    border-radius: 4px;
+    border: 1px solid rgb(229, 231, 235);
+    position: relative;
+    margin: 0 56px;
+    z-index: 2;
+    display: flex;
+}
+
 .quality__img {
     z-index: 1;
 }
