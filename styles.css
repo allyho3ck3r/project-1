@@ -306,11 +306,11 @@ header .row {
 }
 
 .header__description {
-    width: 41.6667%;
+    width: calc(100% - 60%);
 }
 
 .header__img--wrapper {
-    width: calc(100% -  41.6667%);
+    width: calc(100% - 40%);
 }
 
 .header__img {
